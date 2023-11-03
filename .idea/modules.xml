@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CloudX_PetStoreApp.iml" filepath="$PROJECT_DIR$/.idea/CloudX_PetStoreApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/petstore/petstoreapp/petstoreapp.iml" filepath="$PROJECT_DIR$/petstore/petstoreapp/petstoreapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/petstore/petstoreorderservice/petstoreorderservice.iml" filepath="$PROJECT_DIR$/petstore/petstoreorderservice/petstoreorderservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/petstore/petstorepetservice/petstorepetservice.iml" filepath="$PROJECT_DIR$/petstore/petstorepetservice/petstorepetservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/petstore/petstoreproductservice/petstoreproductservice.iml" filepath="$PROJECT_DIR$/petstore/petstoreproductservice/petstoreproductservice.iml" />
+    </modules>
+  </component>
+</project>
